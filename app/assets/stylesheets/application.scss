@@ -29,6 +29,11 @@ form.button_to {
   display: inline;
 }
 
+#sold_out {
+  display: inline;
+  background-color: red;
+}
+
 .hero {
   height: 75vh;
   background-image: url("/images/hero_header.jpg");
