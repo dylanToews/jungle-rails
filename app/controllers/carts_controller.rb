@@ -1,5 +1,7 @@
 class CartsController < ApplicationController
 
+
+
   def show
       if cart.present?
         render "show"
